@@ -30,3 +30,14 @@ But I'm lazy and this was a fun little project to learn some mod development.
 ##### Ending Notes
 I have no clue if this works on other versions, I have not tested it, I'm sure I will find out when I try to use it on
 other versions. Feel free to try it on other versions and let me know if it works.
+
+---
+
+# License
+
+[Autofish Fix](https://github.com/ShockFox05/Autofish-Fix-1.21.X) © 2025 by [ShockFox05](https://github.com/ShockFox05)  
+is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).  
+![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg)
+![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg)
+![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg)
+![SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
