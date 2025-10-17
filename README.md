@@ -1,25 +1,32 @@
+# **Disclaimer**
+This mod is a **client-side** mod. If a server bans the use of client-side mods, **do not use this mod**.  
+If you choose to use this mod anyway and are banned, I am **not responsible**.  
+**Ask server admin/staff** if this mod is allowed before using it.
 
-Installation information
-=======
+---
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+## AutoFishing Info:
+This mod does one simple thing:  
+It makes autofishing easier on servers by casting the rod when you interact with a **note block**, as long as your line 
+is not already cast.  
+This is useful for autofish farms involving a note block to keep the rod from reeling in then 
+typically an **iron trapdoor** will briefly block your line of sight, allowing you to cast again.
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+###  Why?
+Sometimes, due to server lag or other reasons, the rod may be used twice when interacting with the iron trapdoor. This 
+leaves the rod reeled in, and you're just left hitting a note block for no reason.  
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+Could I have just altered the design of the farm to avoid this? Probably.  
+But I'm lazy and this was a fun little project to learn some mod development.
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+---
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+## Additional Resources: 
+
+**GitHub**: https://github.com/ShockFox05/Autofish-Fix-1.21.X  
+**CurseForge**: [Currently Unavailable]  
+**Modrinth**: [Currently Unavailable]
+
+##### Ending Notes
+I have no clue if this works on other versions, I have not tested it, I'm sure I will find out when I try to use it on
+other versions. Feel free to try it on other versions and let me know if it works.
