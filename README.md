@@ -26,7 +26,7 @@ But I'm lazy and this was a fun little project to learn some mod development.
 
 **GitHub**: https://github.com/ShockFox05/Autofish-Fix-1.21.X  
 **CurseForge**: https://legacy.curseforge.com/minecraft/mc-mods/autofish-fix  
-**Modrinth**: [Currently Unavailable]
+**Modrinth**: https://github.com/ShockFox05/Autofish-Fix-1.21.X
 
 ##### Ending Notes
 I have no clue if this works on other versions, I have not tested it, I'm sure I will find out when I try to use it on
