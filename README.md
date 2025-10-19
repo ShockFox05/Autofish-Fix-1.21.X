@@ -1,5 +1,6 @@
 # **Disclaimer**
-This mod is a **client-side** mod. If a server bans the use of client-side mods, **do not use this mod**.  
+This mod is a **client-side** mod.  
+If a server bans the use of client-side mods, **do not use this mod**.  
 If you choose to use this mod anyway and are banned, I am **not responsible**.  
 **Ask server admin/staff** if this mod is allowed before using it.
 
